@@ -1,9 +1,12 @@
+
+/* Start of "Global" style section */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
+/* Start of "Body" section */
 html,
 body,
 .wrapper {
@@ -30,6 +33,7 @@ header {
   color: hsl(206, 17%, 28%);
 }
 
+/* Start of "Card" section */
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -72,6 +76,7 @@ header {
   clear: both;
 }
 
+/* Button styling */
 .btn {
   border: none;
   background-color: hsl(360, 91%, 36%);
@@ -118,6 +123,8 @@ button[disabled] {
   overflow: hidden;
 }
 
+
+/* Start of "Media Query" */
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
