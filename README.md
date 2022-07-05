@@ -1,4 +1,5 @@
 # challenge3-passwordgenerator
+
 DU Bootcamp - Challenge 3 Password Generator
 
 https://github.com/drewlovato/challenge3-passwordgenerator
@@ -9,7 +10,7 @@ HTML
 // Comments added to div sections
 
 CSS
-// Nothing was changed in CSS
+// Comments added to style sections
 
 Javascript
 // 1. Create generate password funtions
